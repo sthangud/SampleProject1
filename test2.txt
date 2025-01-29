@@ -1,1 +1,1 @@
-Hi, I am test2 document
+Hi, I am test2 document from master
